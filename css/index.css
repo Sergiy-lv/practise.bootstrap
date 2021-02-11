@@ -1,0 +1,60 @@
+:root {
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background: #141414;
+    text-align: start;
+    margin: auto;
+    height: 121px ;
+    color: white;
+}
+.header-menu
+{
+display: flex;
+justify-content: space-around; 
+
+}
+.logo {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    
+}
+ nav ul{
+    display: flex;
+ list-style-type: none;
+}
+.menu nav ul{
+    margin-left: 32px;
+} 
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 32px;
+}
+.inst{
+    display: flex;
+    list-style-type: none;
+    width: 32px;      
+}
+body{
+    background-image: url(img.css/kartel_logo1.doG6f.png) ;
+    margin: auto;
+    display: block;
+    max-width:  1920px;
+}
+p
+{
+    color: white;
+    text-align: center;
+    font-size: 68px;
+}
+.banner{
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+
